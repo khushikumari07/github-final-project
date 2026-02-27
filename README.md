@@ -18,3 +18,5 @@ Simple Interest (SI) = (Principal × Rate × Time) / 100
 - Rate (R): Interest rate per year (%)  
 - Time (T): Time in years
 
+Testing pull request
+
